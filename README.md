@@ -30,3 +30,8 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
+
+Codebook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+run_analysis.R performs the required analysis described in Codebook.md and can be implemented by importing and running in R.
+tidy_data.txt is the output of run_analysis.R, which is the tidy dataset described in Codebook.md.
+
